@@ -5,7 +5,7 @@ public class charon1 {
 	public static void main(String[] args) {
 	
 		
-		int i,j,k;
+		int i,j;
 		for(i=0;i<5;i++)
 		{
 			for(j=0;j<=i;j++)
@@ -18,3 +18,12 @@ public class charon1 {
 	}
 
 }
+/*
+ * *
+ * **
+ * ***
+ * ****
+ * *****
+ * */
+//i에서 5번을 반복 -> 높이 
+//j는 i만큼 반복하면 0,1,2,3,4 총 5번 
